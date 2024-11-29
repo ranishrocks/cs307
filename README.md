@@ -10,6 +10,7 @@ This repository contains the complete code implementation for the **CS367 - Arti
 
 ## Contents
 This repository includes the following projects and assignments:
+**END-SEM**
 - **Hopfield Network**: Implementation of a 10x10 associative memory using the Hopfield network.
 - **Epsilon-Greedy Algorithm**: Implementation of the Epsilon-Greedy algorithm in the context of bandit problems.
 - **Gridworld**: A 4x3 gridworld problem solved using value iteration and policy extraction.
