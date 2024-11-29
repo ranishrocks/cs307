@@ -6,7 +6,7 @@ This repository contains the complete code implementation for the **CS367 - Arti
 - **Course Code**: CS367 - Artificial Intelligence
 - **Instructor**: Dr. Pratik Shah
 - **Institution**: Indian Institute of Information Technology Vadodara (IIITV)
-- **Term**: Winter 2024
+- **Term**: Autumn 2024
 
 ## Contents
 This repository includes the following projects and assignments:
